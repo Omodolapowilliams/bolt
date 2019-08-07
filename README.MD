@@ -1,4 +1,4 @@
-So, in summary, a slack channel "*bolt*" and then I created a slack app on slack's website.
+So, in summary, i created a slack channel "*bolt*" and then I created a slack app on slack's website.
 
 Then I integrated the app into the channel. Upon doing this, slack gave me a webhook url to send messages to the channel.
 
